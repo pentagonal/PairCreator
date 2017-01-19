@@ -1,0 +1,26 @@
+{
+    "name": "pentagonal/pair-creator",
+    "description": "Pair the given encrypted key with encrypted data.",
+    "type": "library",
+    "version": "1.0.0",
+    "homepage": "https://www.pentagonal.org/",
+    "require": {
+        "php": ">= 5.4.0",
+        "pentagonal/simple_encrypt": "^1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.5.*",
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pentagonal\\PairCreator\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "pentagonal",
+            "email": "org@pentagonal.org"
+        }
+    ]
+}
