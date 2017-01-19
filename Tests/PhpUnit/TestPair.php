@@ -60,7 +60,7 @@ class TestPair extends \PHPUnit_Framework_TestCase
     public function testAssertCreateCompare()
     {
         // assert $pair property instance of Pair::class
-        $this->assertInstanceOf(Pair::class, $this->pair);
+        $this->assertInstanceOf('\\Pentagonal\\PairCreator\\Lib\\Pair', $this->pair);
 
         $this->key = $this->pair->generateKey();
         $this->encryptedData = $this->pair->generateData($this->data);

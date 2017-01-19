@@ -105,3 +105,6 @@ IV3VtOVJJPSJ9WyIzOTNiMDYwNjJhZDI1NjQ1ZmZjMDU4ZDhhYzlkMjE3NmQ
 
 ```
 
+### License
+
+MIT License [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)

@@ -1,7 +1,9 @@
 {
     "name": "pentagonal/pair-creator",
     "description": "Pair the given encrypted key with encrypted data.",
+    "keywords": ["Encryption", "Library", "Utility", "openSSL", "Security", "Pair"],
     "type": "library",
+    "license": "MIT",
     "version": "1.0.0",
     "homepage": "https://www.pentagonal.org/",
     "require": {
